@@ -1,0 +1,1 @@
+select count(*) from `ecommerce-analytics-499510.instacart_raw.aisles`;

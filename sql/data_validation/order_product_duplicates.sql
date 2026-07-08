@@ -1,0 +1,1 @@
+select order_id, product_id, count(*) as cnt from `ecommerce-analytics-499510.instacart_raw.order_products` group by order_id, product_id having count(*) > 1;

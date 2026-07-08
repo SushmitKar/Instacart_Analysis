@@ -1,0 +1,2 @@
+select aisle_id, count(*) as cnt from `ecommerce-analytics-499510.instacart_raw.aisles` group by aisle_id having count(*) > 1;
+select department_id, count(*) as cntd from `ecommerce-analytics-499510.instacart_raw.department` group by aisle_id having count(*) > 1;
