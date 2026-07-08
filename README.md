@@ -38,7 +38,7 @@ RFM (Recency, Frequency, Monetary) segmentation of 206,000+ Instacart customers 
 - **Tableau Public** — dashboard
 
 ## Dashboard
-[View on Tableau Public](https://public.tableau.com/app/profile/sushmit.kar/viz/RFMAnalysis_17830174524470/Dashboard1)
+[View on Tableau Public](https://public.tableau.com/app/profile/sushmit.kar/viz/InstacartCustomerSegmentation_17834125795120/Dashboard1)
 
 ## SQL Pipeline
 | File | Description |
